@@ -34,7 +34,7 @@ International experience:
 ## Tech stack
 
 **Languages**
-C • Java • Python • Swift
+HTML • JavaScript • React • Java • Swift • Python • C
 
 **Technologies**
-SQL • Web development • Git • Docker
+SQL • Git • Docker
